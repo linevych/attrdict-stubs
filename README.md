@@ -1,0 +1,1 @@
+# MyPy stubs for attrdict
