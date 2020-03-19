@@ -21,7 +21,7 @@ with open('README.md', 'r') as f:
     readme = f.read()
 
 dependencies = [
-    'mypy>=0.760',
+    'mypy',
     'typing-extensions',
 ]
 
